@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(6, 175, 226);
+    margin: 0;
+    padding: 0;
+}
+
+header{
+   background-color: black
+}
+.titulo{
+    color: aliceblue;
+    text-align: center;
+}
+.produtos{
+    display: flex;
+
+}
+.meio{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
